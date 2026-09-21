@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @MycosoftLabs
-- 👀 We are interested in building technology that interacts with fungi.
-- 🌱 We are currently learning SQL, C++ & Javascript.
-- 💞️ We are looking to collaborate on building User Interfaces to interact with mycology data.
-- 📫 How to reach us mycosoft.inc@gmail.com
+# Mycosoft Labs
 
-<!---
-MycosoftLabs/MycosoftLabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mycosoft builds environmental intelligence, biological computing, and contractor-readiness software.
+
+## What we ship
+
+- **FUSARIUM** — environmental intelligence for defense
+- **FUSARIUM Launchpad** — contractor readiness workspace at https://mycosoft.com/fusarium/launchpad
+- **NatureOS / MINDEX / MYCA** — platform, mycological data, and edge intelligence
+
+## Contact
+
+- hello@mycosoft.com
+- compliance@mycosoft.com
+- legal@mycosoft.org
+
+This organization profile is for Mycosoft Labs engineering. It is not a personal learning account.
